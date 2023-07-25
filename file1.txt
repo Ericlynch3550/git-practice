@@ -1,3 +1,7 @@
 Hello from Notepad
 Let's see this through!
+
 it has been seen
+
+Bye Bye.
+
